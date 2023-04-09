@@ -72,6 +72,5 @@ Step6: Use line chart to find Peak time for sales.
 
 **Desktop View**  
 
-
-
+![supermarket sales](https://user-images.githubusercontent.com/47376889/230776833-7549cabb-91de-48f5-897e-5fdee5598579.JPG)
 
